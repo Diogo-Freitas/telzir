@@ -47,9 +47,9 @@
 
 ## 📷 Screenshots
 <h1>
-    <img width="270" alt="HOME" src="">
-    <img width="270" alt="HOME" src="">
-    <img width="270" alt="HOME" src="">
+    <img width="270" alt="HOME" src="https://user-images.githubusercontent.com/6785738/163103849-34bf86cd-9756-4922-9cc0-ebca7d5ea934.png">
+    <img width="270" alt="HOME" src="https://user-images.githubusercontent.com/6785738/163103885-8c0d29a4-d34c-4d77-a540-3b74e32824dc.png">
+    <img width="270" alt="HOME" src="https://user-images.githubusercontent.com/6785738/163103918-e4656be5-d8e9-4ee7-a82b-46edaaba1c0c.png">
 </h1>
 
 <div id="tecnologias-utilizadas"></div>
@@ -126,10 +126,11 @@ sail artisan migrate --seed
 
 
 ### 3. Executando Testes:
+
 ```sh
 sail test
 ```
-
+<img width="373" alt="4" src="https://user-images.githubusercontent.com/6785738/163104483-51500a68-f5b9-45b5-9575-52643a26becc.png">
 
 ### 4. Acessando a Aplicação:
 
